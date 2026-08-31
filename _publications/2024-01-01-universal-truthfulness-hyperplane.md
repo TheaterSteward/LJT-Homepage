@@ -2,7 +2,7 @@
 title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
 category: conferences
-permalink: /publication/2024-01-01-universal-truthfulness-hyperplane
+permalink: /publication/2024-universal-truthfulness-hyperplane
 excerpt: 'First-author work studying the universal truthfulness hyperplane inside LLMs.'
 date: 2024-01-01
 venue: 'EMNLP 2024'
